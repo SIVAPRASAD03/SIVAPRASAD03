@@ -7,4 +7,4 @@ I have signed up for many courses on multiple online learning platforms and most
 The process of learning is what excites me the most and it is something that gives me immense happiness. 
 I’m currently learning how to build applications using MERN stack
 
-⚡ Fun fact: I am pretty good in cooking :)
+⚡ Fun fact: I am pretty good at cooking :)
